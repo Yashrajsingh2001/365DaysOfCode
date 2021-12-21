@@ -18,5 +18,5 @@ I will be adding my daily progress for 365 days.</br></br></br>
 
 | Day | Description |
 | --- | --- |
-| `Day 1` | info |
-| `Day 2` | info |
+| [`Day 1`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/Day%201) | Solved 2 Que |
+| `Day 2` | xyz |
