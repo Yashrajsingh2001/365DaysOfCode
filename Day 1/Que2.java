@@ -1,4 +1,4 @@
-// Que LINK: https: leetcode.com/problems/house-robber/
+// Que LINK: https://leetcode.com/problems/house-robber/
 public class Que2 {
     public int rob(int[] nums) {
         // [5,7,20,3,8,50,1]
