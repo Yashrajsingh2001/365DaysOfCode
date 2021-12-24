@@ -21,3 +21,4 @@ I will be adding my daily progress for 365 days.</br></br></br>
 | [`Day 1`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/Day%201) | Solved 2 Que |
 | [`Day 2`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/Day%202) | Solved 3 Que |
 | [`Day 3`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/Day%203) | Solved 3 Que |
+| [`Day 4`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/Day%204) | Solved 4 Que and practiced Tailwind CSS|
