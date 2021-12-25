@@ -1,6 +1,6 @@
 // Que LINK: https://leetcode.com/problems/number-of-good-pairs/
 
-// Method 2
+// Method 1
 class Solution {
     public int numIdenticalPairs(int[] nums) {
         
