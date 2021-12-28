@@ -25,3 +25,4 @@ I will be adding my daily progress for 365 days.</br></br></br>
 | [`Day 5`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%205) | Solved 2 Que |
 | [`Day 6`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%206) | Solved 4 Que |
 | [`Day 7`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%207) | Solved 2 Que |
+| [`Day 8`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%208) | Solved 4 Que |
