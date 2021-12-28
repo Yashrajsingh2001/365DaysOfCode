@@ -1,4 +1,4 @@
-// Que LIKE: https://leetcode.com/problems/maximum-subarray/
+// Que LINK: https://leetcode.com/problems/maximum-subarray/
 
 class Solution {
     public int maxSubArray(int[] nums) {
@@ -11,7 +11,6 @@ class Solution {
             if(sum<0)
                 sum = 0;
         }
-        
         return max;
     }
 }
