@@ -32,8 +32,8 @@
     // Variables are containers for storing information and it starts with a $
     
     // Variables are case sensitive
-    $name = "Shubham";
-    $income = 65000.5;
+    $name = "Yashraj";
+    $income = 55000.5;
 
         echo "This guy is $name and his income is Rs. $income<br>";
     ?></div>
