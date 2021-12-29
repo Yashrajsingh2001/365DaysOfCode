@@ -1,28 +1,35 @@
-
 # #365DaysOfCode
 
 I will be adding my daily progress for 365 days.</br></br></br>
 
 # Connect with me
 
-  <a href="https://twitter.com/yashraj_2001">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/>
-  </a>&ensp;
-  <a href="https://www.linkedin.com/in/yashraj-singh-boparai-613a641a8/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/>
-  </a>&ensp;
+<a href="https://twitter.com/yashraj_2001">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"/>
+</a>&ensp;
+<a href="https://www.linkedin.com/in/yashraj-singh-boparai-613a641a8/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/>
+</a>&ensp;
+<br>
+<a href="https://linktr.ee/yashraj_2001">
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+</a>&emsp;
+<a href="https://bio.link/yashraj_2001">
+  <img src="https://img.shields.io/badge/bio.link-66635d?style=for-the-badge&logo=biolink&logoColor=white"/>
+</a>&ensp;
 
 </br></br>
 
 # Days
 
-| Day | Description |
-| --- | --- |
-| [`Day 1`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%201) | Solved 2 Que |
-| [`Day 2`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%202) | Solved 3 Que |
-| [`Day 3`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%203) | Solved 3 Que |
-| [`Day 4`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%204) | Solved 6 Que and tried to use Tailwind CSS|
-| [`Day 5`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%205) | Solved 2 Que |
-| [`Day 6`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%206) | Solved 4 Que |
-| [`Day 7`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%207) | Solved 2 Que |
-| [`Day 8`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%208) | Solved 4 Que |
+| Day                                                                                            | Description                                 |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| [`Day 1`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%201) | Solved 2 Que                                |
+| [`Day 2`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%202) | Solved 3 Que                                |
+| [`Day 3`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%203) | Solved 3 Que                                |
+| [`Day 4`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%204) | Solved 6 Que and tried to use Tailwind CSS  |
+| [`Day 5`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%205) | Solved 2 Que                                |
+| [`Day 6`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%206) | Solved 4 Que                                |
+| [`Day 7`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%207) | Solved 2 Que                                |
+| [`Day 8`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%208) | Solved 4 Que                                |
+| [`Day 9`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%209) | Solved 2 Que and started with basics of PHP |
