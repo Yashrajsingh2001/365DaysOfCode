@@ -59,7 +59,7 @@
 								?>
 		</div>
 		<div class="grid-item">
-			<h1>While loop:</h1><?php
+			<h1>Do While loop:</h1><?php
 								$i = 1;
 								do {
 									echo "The value of i is $i <br>";
