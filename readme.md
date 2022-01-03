@@ -29,3 +29,5 @@ I will be adding my daily progress for 365 days.</br></br></br>
 | [`Day 10`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%2010) | Solved 1 Que and learnt more about PHP |
 | [`Day 11`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%2011) | Solved 2 Que |
 | [`Day 12`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%2012) | Solved 3 Que |
+| [`Day 13`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%2013) | Solved 1 Que and learnt more about PHP |
+| [`Day 14`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/December%202021/Day%2014) | Solved 4 Que |
