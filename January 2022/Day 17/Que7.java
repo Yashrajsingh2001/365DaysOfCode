@@ -1,4 +1,4 @@
-// Que link: https://leetcode.com/problems/merge-two-sorted-lists/submissions/
+// Que link: https://leetcode.com/problems/merge-two-sorted-lists/
 
 // Method 1: with recursion
 class Solution {
@@ -8,7 +8,8 @@ class Solution {
 		if(l1.val < l2.val){
 			l1.next = mergeTwoLists(l1.next, l2);
 			return l1;
-		} else{
+		} 
+        else{
 			l2.next = mergeTwoLists(l1, l2.next);
 			return l2;
 		}

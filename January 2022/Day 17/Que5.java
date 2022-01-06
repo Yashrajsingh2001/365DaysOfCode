@@ -1,4 +1,4 @@
-// Que link: https://leetcode.com/problems/reverse-linked-list/submissions/
+// Que link: https://leetcode.com/problems/reverse-linked-list/
 
 class Solution {
     public ListNode reverseList(ListNode head) {
