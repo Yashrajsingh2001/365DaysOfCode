@@ -2,6 +2,15 @@
 
 | Que No. | From | Description |
 | --- | --- | --- |
+| 1 | LeetCode | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) |
+| 2 | LeetCode | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) |
+| 3 | LeetCode | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) |
+| 4 | LeetCode | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) |
+
+<!-- # Day 19: 08/01/2022
+
+| Que No. | From | Description |
+| --- | --- | --- |
 | 1 | <span id="h">LeetCode</span> | [1463. Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) |
 | 2 | <span id="e">LeetCode</span> | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) |
 | 3 | <span id="e">LeetCode</span> | [383. Ransom Note](https://leetcode.com/problems/ransom-note/) |
@@ -23,4 +32,4 @@
         <div class="dif" id="m">Medium</div>
         <div class="dif" id="h">Hard</div>
     </div>
-</body>
+</body> -->
