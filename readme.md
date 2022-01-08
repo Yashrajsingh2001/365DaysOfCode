@@ -36,3 +36,4 @@ In this period I will be learning new things and will solve some `LeetCode` ques
 | [`Day 16`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/January%202022/Day%2016) | Solved 3 Que |
 | [`Day 17`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/January%202022/Day%2017) | Solved 7 Que |
 | [`Day 18`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/January%202022/Day%2018) | Solved 3 Que |
+| [`Day 19`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/January%202022/Day%2019) | Solved 4 Que |
