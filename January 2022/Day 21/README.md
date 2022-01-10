@@ -7,3 +7,4 @@
 | 3 | HackerRank | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) |
 | 4 | LeetCode | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |
 | 5 | LeetCode | [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) |
+| 6 | LeetCode | [1051. Height Checker](https://leetcode.com/problems/height-checker/) |
