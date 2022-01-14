@@ -42,8 +42,5 @@ In this period I will be learning new things and will solve some `LeetCode` ques
 | [`Day 22`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/January%202022/Day%2022) | Solved 3 Que |
 | [`Day 23`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/January%202022/Day%2023) | Solved 4 Que |
 | [`Day 24`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/January%202022/Day%2024) | Solved 4 Que |
-| [`Day 25`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/January%202022/Day%2025) | Solved 1 Que |
 <<<<<<< HEAD
-=======
-
->>>>>>> 2525b6b37cda93ce67283d191326809d8312efef
+| [`Day 25`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/January%202022/Day%2025) | Solved 1 Que |
