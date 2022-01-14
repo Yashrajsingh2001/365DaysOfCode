@@ -3,4 +3,3 @@
 | Que No. | From | Description |
 | --- | --- | --- |
 | 1 | LeetCode | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) |
-
