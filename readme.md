@@ -45,3 +45,4 @@ In this period I will be learning new things and will solve some `LeetCode` ques
 | [`Day 25`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/January%202022/Day%2025) | Solved 1 Que |
 | [`Day 26`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/January%202022/Day%2026) | Solved 3 Que |
 | [`Day 27`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/January%202022/Day%2027) | Solved 4 Que |
+| [`Day 28`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/January%202022/Day%2028) | Solved 9 Que |
