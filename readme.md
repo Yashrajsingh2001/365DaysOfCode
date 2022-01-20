@@ -1,7 +1,7 @@
 # #365DaysOfCode
 
 I will be adding my daily progress for 365 days.</br>
-In this period I will be learning new things and will solve some `LeetCode` questions daily.</br></br>
+In this period I will be learning new things and will solve some `LeetCode` and `CodeChef` questions daily.</br></br>
 
 # Connect with me
 
@@ -48,3 +48,4 @@ In this period I will be learning new things and will solve some `LeetCode` ques
 | [`Day 28`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/January%202022/Day%2028) | Solved 9 Que |
 | [`Day 29`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/January%202022/Day%2029) | Solved 12 Que |
 | [`Day 30`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/January%202022/Day%2030) | Solved 11 Que |
+| [`Day 31`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/January%202022/Day%2030) | Solved 9 Que |
