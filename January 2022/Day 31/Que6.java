@@ -17,9 +17,11 @@ class Codechef
 		Scanner scan = new Scanner(System.in);
         int T = scan.nextInt();
         while(T-- != 0){
-           int base= scan.nextInt();
-           base -= 2;
-           base = (int)(base/2);
+            int base= scan.nextInt();
+        //   base -= 2;
+        //   base = (int)(base/2);
+        //   System.out.println(base*(base+1)/2);
+           base = (base-2)/2;
            System.out.println(base*(base+1)/2);
         }
 	}
