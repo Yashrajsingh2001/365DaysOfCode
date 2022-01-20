@@ -11,3 +11,4 @@
 | 7 | CodeChef | [UTKPLC](https://www.codechef.com/problems/UTKPLC) |
 | 8 | CodeChef | [CALPOWER](https://www.codechef.com/problems/CALPOWER) |
 | 9 | LeetCode | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) |
+| 10 | LeetCode | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |
