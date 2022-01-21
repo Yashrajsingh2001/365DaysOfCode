@@ -4,4 +4,5 @@
 | --- | --- | --- |
 | 1 | LeetCode | [134. Gas Station](https://leetcode.com/problems/gas-station/) |
 | 2 | LeetCode | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |
-<!-- | 3 | CodeChef | [CALPOWER](https://www.codechef.com/problems/CALPOWER) | -->
+| 3 | CodeChef | [PENALTY](https://www.codechef.com/problems/PENALTY) |
+<!-- | 4 | CodeChef | [PENALTY](https://www.codechef.com/problems/PENALTY) | -->
