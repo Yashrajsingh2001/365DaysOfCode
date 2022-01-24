@@ -6,3 +6,4 @@
 | 2 | LeetCode | [27. Remove Element](https://leetcode.com/problems/remove-element/) |
 | 3 | LeetCode | [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) |
 | 4 | LeetCode | [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) |
+| 5 | LeetCode | [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) |
