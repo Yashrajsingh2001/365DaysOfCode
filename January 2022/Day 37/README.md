@@ -8,7 +8,7 @@
 | 4 | LeetCode | [1656. Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) |
 | 5 | LeetCode | [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) |
 | 6 | LeetCode | [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) |
-| 7 | LeetCode | []() |
+| 7 | LeetCode | [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) |
 | 8 | LeetCode | []() |
 | 9 | LeetCode | []() |
 | 10 | LeetCode | []() |
