@@ -11,4 +11,4 @@
 | 7 | LeetCode | [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) |
 | 8 | LeetCode | [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) |
 | 9 | LeetCode | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) |
-| 10 | LeetCode | []() |
+| 10 | LeetCode | [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) |
