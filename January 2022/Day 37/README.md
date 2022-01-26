@@ -10,5 +10,5 @@
 | 6 | LeetCode | [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) |
 | 7 | LeetCode | [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/) |
 | 8 | LeetCode | [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) |
-| 9 | LeetCode | []() |
+| 9 | LeetCode | [1534. Count Good Triplets](https://leetcode.com/problems/count-good-triplets/) |
 | 10 | LeetCode | []() |
