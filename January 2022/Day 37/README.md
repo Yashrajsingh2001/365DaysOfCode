@@ -7,7 +7,7 @@
 | 3 | LeetCode | [2006. Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/) |
 | 4 | LeetCode | [1656. Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/) |
 | 5 | LeetCode | [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/) |
-| 6 | LeetCode | []() |
+| 6 | LeetCode | [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) |
 | 7 | LeetCode | []() |
 | 8 | LeetCode | []() |
 | 9 | LeetCode | []() |
