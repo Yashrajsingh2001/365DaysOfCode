@@ -7,3 +7,4 @@
 | 3 | LeetCode | [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/) |
 | 4 | LeetCode | [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/) |
 | 5 | LeetCode | [1560. Most Visited Sector in a Circular Track](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/) |
+| 6 | LeetCode | [1018. Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/) |
