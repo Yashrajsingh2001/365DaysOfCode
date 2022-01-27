@@ -1,1 +1,7 @@
 .vscode/*
+
+# ignore all .class files created.
+*/*/*.class 
+
+# temp ignored: unsolved Que
+January 2022/Day 38/Que2.java
