@@ -1,4 +1,4 @@
-// Que link: https://leetcode.com/problems/rotate-list/submissions/
+// Que link: https://leetcode.com/problems/rotate-list/
 // 61. Rotate List
 
 
