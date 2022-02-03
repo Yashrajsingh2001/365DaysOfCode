@@ -3,3 +3,4 @@
 | Que No. | From | Description |
 | --- | --- | --- |
 | 1 | LeetCode | [454. 4Sum II](https://leetcode.com/problems/4sum-ii/) |
+| 2 | LeetCode | [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) |
