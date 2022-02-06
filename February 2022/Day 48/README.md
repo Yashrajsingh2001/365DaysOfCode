@@ -7,7 +7,7 @@
 | 3 | LeetCode | [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) |
 | 4 | LeetCode | [783. Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/) |
 
-<br><br>
+<br> <br>
 
 ```diff
 - PS: Revise all Que again.
