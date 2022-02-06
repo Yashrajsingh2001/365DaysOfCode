@@ -3,3 +3,4 @@
 | Que No. | From | Description |
 | --- | --- | --- |
 | 1 | LeetCode | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |
+| 2 | LeetCode | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) |
