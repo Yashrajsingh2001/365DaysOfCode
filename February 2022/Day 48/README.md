@@ -4,3 +4,4 @@
 | --- | --- | --- |
 | 1 | LeetCode | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |
 | 2 | LeetCode | [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) |
+| 3 | LeetCode | [897. Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) |
