@@ -3,3 +3,4 @@
 | Que No. | From | Description |
 | --- | --- | --- |
 | 1 | LeetCode | [258. Add Digits](https://leetcode.com/problems/add-digits/) |
+| 2 | LeetCode | [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) |
