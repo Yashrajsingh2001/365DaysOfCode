@@ -3,3 +3,4 @@
 | Que No. | From | Description |
 | --- | --- | --- |
 | 1 | LeetCode | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) |
+| 2 | LeetCode | [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/) |
