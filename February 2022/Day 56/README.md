@@ -6,3 +6,4 @@
 | 2 | LeetCode | [455. Assign Cookies](https://leetcode.com/problems/assign-cookies/) |
 | 3 | LeetCode | [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/) |
 | 4 | LeetCode | [561. Array Partition I](https://leetcode.com/problems/array-partition-i/) |
+| 5 | LeetCode | [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) |
