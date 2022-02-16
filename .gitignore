@@ -1,6 +1,6 @@
 .vscode/*
 
-# ignore all .class files created.
+# ignore all .class files which are created
 */*/*.class 
 
 # temp ignored: unsolved Que
