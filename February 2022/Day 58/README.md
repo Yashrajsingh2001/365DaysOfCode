@@ -6,3 +6,4 @@
 | 2 | LeetCode | [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) |
 | 3 | LeetCode | [1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) |
 | 4 | LeetCode | [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) |
+| 5 | LeetCode | [1337. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) |
