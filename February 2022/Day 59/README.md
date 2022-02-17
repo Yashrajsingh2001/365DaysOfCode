@@ -4,3 +4,4 @@
 | --- | --- | --- |
 | 1 | LeetCode | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) |
 | 2 | LeetCode | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) |
+| 3 | LeetCode | [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) |
