@@ -76,3 +76,4 @@ In this period I will be learning new things and will solve some `LeetCode` and 
 | [`Day 56`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/February%202022/Day%2056) | Solved 5 Que |
 | [`Day 57`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/February%202022/Day%2057) | Solved 4 Que |
 | [`Day 58`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/February%202022/Day%2058) | Solved 6 Que |
+| [`Day 59`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/February%202022/Day%2059) | `Solved all 4 Combination Sum Que` |
