@@ -3,3 +3,4 @@
 | Que No. | From | Description |
 | --- | --- | --- |
 | 1 | LeetCode | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) |
+| 2 | LeetCode | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) |
