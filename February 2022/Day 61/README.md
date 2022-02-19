@@ -6,3 +6,4 @@
 | 2 | LeetCode | [704. Binary Search](https://leetcode.com/problems/binary-search/) |
 | 3 | LeetCode | [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) |
 | 4 | LeetCode | [1385. Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/) |
+| 5 | LeetCode | [1608. Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/) |
