@@ -3,3 +3,4 @@
 | Que No. | From | Description |
 | --- | --- | --- |
 | 1 | LeetCode | [1675. Minimize Deviation in Array](https://leetcode.com/problems/minimize-deviation-in-array/) |
+| 1 | LeetCode | [704. Binary Search](https://leetcode.com/problems/binary-search/) |
