@@ -3,3 +3,4 @@
 | Que No. | From | Description |
 | --- | --- | --- |
 | 1 | LeetCode | [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) |
+| 2 | LeetCode | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
