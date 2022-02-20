@@ -79,3 +79,4 @@ In this period I will be learning new things and will solve some `LeetCode` and 
 | [`Day 59`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/February%202022/Day%2059) | `Solved all 4 Combination Sum Que` |
 | [`Day 60`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/February%202022/Day%2060) | Solved 4 Que |
 | [`Day 61`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/February%202022/Day%2061) | Solved 5 Que (Binary Search) |
+| [`Day 62`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/February%202022/Day%2061) | Solved 5 Que (Binary Search: Medium) |
