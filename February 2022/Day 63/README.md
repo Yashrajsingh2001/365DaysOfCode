@@ -2,4 +2,4 @@
 
 | Que No. | From | Description |
 | --- | --- | --- |
-| 1 | LeetCode | []() |
+| 1 | LeetCode | [169. Majority Element](https://leetcode.com/problems/majority-element/) |
