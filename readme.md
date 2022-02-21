@@ -80,3 +80,4 @@ In this period I will be learning new things and will solve some `LeetCode` and 
 | [`Day 60`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/February%202022/Day%2060) | Solved 4 Que |
 | [`Day 61`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/February%202022/Day%2061) | Solved 5 Que (Binary Search) |
 | [`Day 62`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/February%202022/Day%2062) | Solved 5 Que (Binary Search: Medium) |
+| [`Day 63`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/February%202022/Day%2063) | Solved 2 Que |
