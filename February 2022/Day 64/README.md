@@ -2,4 +2,4 @@
 
 | Que No. | From | Description |
 | --- | --- | --- |
-| 1 | LeetCode | []() |
+| 1 | LeetCode | [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) |
