@@ -155,34 +155,26 @@ public class MakeBinaryTrees {
     public static void main(String args[]) {
         int nodes[] = {1, 2, 4, -1, -1, 5, -1, -1, 3, -1, 6, -1, -1};
         BinaryTree tree = new BinaryTree();
-       
         Node root = tree.buildTree(nodes); //MakeBinaryTrees.BinaryTree.buildTree(nodes);
-        // System.out.println(root.data); // Print the root node
         
-        /*
         System.out.print("\nPreorder:  ");
         preorder(root);
-
         System.out.print("\nInorder:   ");
         inorder(root);
-
         System.out.print("\nPostorder: ");
         postorder(root);
-
         System.out.println("\nLevelorder: ");
         levelorder(root);
-        */
 
-        // System.out.print("Height of Tree: " +height(root));
 
-        // System.out.println("Number of nodes in the tree: " + countOfNodes(root));
+        System.out.println("Height of Tree: " +height(root));
 
-        // System.out.println("Sum of nodes: " + sumOfNodes(root));
+        System.out.println("Number of nodes in the tree: " + countOfNodes(root));
+
+        System.out.println("Sum of nodes: " + sumOfNodes(root));
 
         //* Maximum distance between two node:
-        System.out.println("Diameter of Tree: " + diameter(root));
-        System.out.println("Diameter of Tree: " + diameter2(root).diam);
-        
-
+        System.out.println("Diameter of Tree (Method 1): " + diameter(root));
+        System.out.println("Diameter of Tree (Method 2): " + diameter2(root).diam);
     }
 }
