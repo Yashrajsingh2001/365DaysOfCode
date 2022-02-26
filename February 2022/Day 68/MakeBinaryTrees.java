@@ -122,6 +122,35 @@ public class MakeBinaryTrees {
         return Math.max(diameter3, Math.max(diameter1, diameter2)); // Max of all three
     }
 
+    //* Diameter of Tree - Approach2 O(N)
+    static class TreeInfo{
+        int ht;
+        int diam;
+
+        TreeInfo(int ht, int diam){
+            this.ht = ht;
+            this.diam = diam;
+        }
+    }
+
+    // We can not have 2 return type so we made TreeInfo class and return height and diameter with it.
+    public static TreeInfo diameter2(Node root) {
+        if(root == null) return new TreeInfo(0, 0);
+  
+        TreeInfo leftTI = diameter2(root.left);
+        TreeInfo rightTI = diameter2(root.right);
+  
+        int myHeight = Math.max(leftTI.ht, rightTI.ht) + 1;
+  
+        int diam1 = leftTI.ht + rightTI.ht + 1;
+        int diam2 = leftTI.diam;
+        int diam3 = rightTI.diam;
+  
+        int myDiam = Math.max(diam1, Math.max(diam2, diam3));
+  
+        return new TreeInfo(myHeight, myDiam);
+    }
+ 
   
     public static void main(String args[]) {
         int nodes[] = {1, 2, 4, -1, -1, 5, -1, -1, 3, -1, 6, -1, -1};
@@ -152,6 +181,8 @@ public class MakeBinaryTrees {
 
         //* Maximum distance between two node:
         System.out.println("Diameter of Tree: " + diameter(root));
+        System.out.println("Diameter of Tree: " + diameter2(root).diam);
         
+
     }
 }
