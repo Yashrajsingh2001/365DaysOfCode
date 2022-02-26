@@ -101,6 +101,16 @@ public class MakeBinaryTrees {
         int rightNodes = countOfNodes(root.right);
         return leftNodes + rightNodes + 1;
     }
+
+    //* Sum of Nodes of Tree
+    public static int sumOfNodes(Node root) {
+        if(root == null) return 0;
+    
+        int leftSum = sumOfNodes(root.left);
+        int rightSum = sumOfNodes(root.right);
+        return leftSum + rightSum + root.data;
+    }
+
  
   
     public static void main(String args[]) {
@@ -126,7 +136,9 @@ public class MakeBinaryTrees {
 
         // System.out.print("Height of Tree: " +height(root));
 
-        System.out.println("Number of nodes in the tree: " + countOfNodes(root));
+        // System.out.println("Number of nodes in the tree: " + countOfNodes(root));
+
+        System.out.println("Sum of nodes: " + sumOfNodes(root));
         
     }
 }
