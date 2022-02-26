@@ -111,7 +111,17 @@ public class MakeBinaryTrees {
         return leftSum + rightSum + root.data;
     }
 
- 
+    //* Diameter of Tree - Approach1 O(N^2)
+    public static int diameter(Node root){
+        if(root == null) return 0;
+
+        int diameter1 = diameter(root.left);
+        int diameter2 = diameter(root.right);
+        int diameter3 = height(root.left) + height(root.right) + 1;
+        
+        return Math.max(diameter3, Math.max(diameter1, diameter2)); // Max of all three
+    }
+
   
     public static void main(String args[]) {
         int nodes[] = {1, 2, 4, -1, -1, 5, -1, -1, 3, -1, 6, -1, -1};
@@ -138,7 +148,10 @@ public class MakeBinaryTrees {
 
         // System.out.println("Number of nodes in the tree: " + countOfNodes(root));
 
-        System.out.println("Sum of nodes: " + sumOfNodes(root));
+        // System.out.println("Sum of nodes: " + sumOfNodes(root));
+
+        //* Maximum distance between two node:
+        System.out.println("Diameter of Tree: " + diameter(root));
         
     }
 }
