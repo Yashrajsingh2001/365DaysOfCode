@@ -85,4 +85,4 @@ In this period I will be learning new things and will solve some `LeetCode` and 
 | [`Day 65`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/February%202022/Day%2065) | Solved 1 Que |
 | [`Day 66`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/February%202022/Day%2066) | Solved 2 Que |
 | [`Day 67`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/February%202022/Day%2067) | Solved 4 Que (Recursion) |
-| [`Day 68`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/February%202022/Day%2068) | Solved 5 Que and made build a Binary Tree from its Preorder traversal and performed some basic operations on it |
+| [`Day 68`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/February%202022/Day%2068) | Solved 5 Que `(Binary Tree) 🌲` |
