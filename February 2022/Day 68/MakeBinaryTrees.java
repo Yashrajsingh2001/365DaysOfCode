@@ -84,7 +84,7 @@ public class MakeBinaryTrees {
         }
     }
 
-    //* Height of Tree:
+    //* Height of Tree
     public static int height(Node root){
         if(root == null) return 0;
 
@@ -92,6 +92,16 @@ public class MakeBinaryTrees {
         int rightHight = height(root.right);
         return Math.max(leftHeight, rightHight) + 1;
     }
+
+    //* Count of Nodes of Tree
+    public static int countOfNodes(Node root) {
+        if(root == null) return 0;
+  
+        int leftNodes = countOfNodes(root.left);
+        int rightNodes = countOfNodes(root.right);
+        return leftNodes + rightNodes + 1;
+    }
+ 
   
     public static void main(String args[]) {
         int nodes[] = {1, 2, 4, -1, -1, 5, -1, -1, 3, -1, 6, -1, -1};
@@ -114,7 +124,9 @@ public class MakeBinaryTrees {
         levelorder(root);
         */
 
-        System.out.print("Height of Tree: " +height(root));
+        // System.out.print("Height of Tree: " +height(root));
+
+        System.out.println("Number of nodes in the tree: " + countOfNodes(root));
         
     }
 }
