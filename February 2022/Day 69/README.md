@@ -4,3 +4,4 @@
 | --- | --- | --- |
 | 1 | LeetCode | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) |
 | 2 | LeetCode | [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |
+| 3 | LeetCode | [257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) |
