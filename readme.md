@@ -89,3 +89,4 @@ In this period I will be learning new things and will solve some `LeetCode` and 
 | [`Day 69`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/February%202022/Day%2069) | Solved 6 Que (Tree) |
 | [`Day 70`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/February%202022/Day%2070) | Solved 3 Que (Matrix) |
 | [`Day 71`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/March%202022/Day%2071) | Solved 3 Que (Matrix) |
+| [`Day 72`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/March%202022/Day%2072) | Solved 1 Que |
