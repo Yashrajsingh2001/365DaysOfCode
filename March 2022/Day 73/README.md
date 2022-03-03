@@ -3,3 +3,4 @@
 | Que No. | From | Description |
 | --- | --- | --- |
 | 1 | LeetCode | [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) |
+| 1 | LeetCode | [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) |
