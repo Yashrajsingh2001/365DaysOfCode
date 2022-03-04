@@ -2,7 +2,7 @@
 
 | Que No. | From | Description |
 | --- | --- | --- |
-<!-- | 1 | LeetCode | []() | -->
+| 1 | LeetCode | [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/) |
 | 2 | LeetCode | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |
 | 3 | LeetCode | [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) |
 | 4 | LeetCode | [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |
