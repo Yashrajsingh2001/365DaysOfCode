@@ -95,3 +95,4 @@ In this period I will be learning new things and will solve some `LeetCode` and 
 | [`Day 75`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/March%202022/Day%2075) | Solved 2 Que |
 | [`Day 76`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/March%202022/Day%2076) | Solved 1 Que |
 | [`Day 77`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/March%202022/Day%2077) | Solved 2 Que |
+| [`Day 78`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/March%202022/Day%2078) | Solved 4 Que (Greedy) |
