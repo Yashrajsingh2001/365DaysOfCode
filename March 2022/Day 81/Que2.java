@@ -8,7 +8,7 @@ class Solution {
         int[] dp = new int[len+1];
         dp[0] = 1;
         dp[1] = s.charAt(0)=='0' ? 0 : 1;
-        for(int i=2; i<= len; i++){
+        for(int i=2; i<=len; i++){
             int oneDigit = Integer.valueOf(s.substring(i-1, i));
             int twoDigit = Integer.valueOf(s.substring(i-2, i));
             
