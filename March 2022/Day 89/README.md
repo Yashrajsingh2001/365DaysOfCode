@@ -5,3 +5,4 @@
 <!-- | 1 | LeetCode | []() | -->
 | 2 | CodeForces | [A. Mahmoud and Ehab and the even-odd game](https://codeforces.com/problemset/problem/959/A) |
 | 3 | CodeForces | [A. Fafa and his Company](https://codeforces.com/problemset/problem/935/A) |
+| 3 | CodeForces | [A. Vus the Cossack and a Contest](https://codeforces.com/problemset/problem/1186/A) |
