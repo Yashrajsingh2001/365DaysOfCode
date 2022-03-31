@@ -1,5 +1,5 @@
 // Que link: https://codeforces.com/problemset/problem/935/A
-A. Fafa and his Company
+// A. Fafa and his Company
 
 
 import java.util.*;
