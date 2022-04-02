@@ -106,3 +106,5 @@ In this period I will be learning new things and will solve some `LeetCode` and 
 | [`Day 86`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/March%202022/Day%2086) | Solved 2 Que |
 | [`Day 87`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/March%202022/Day%2087) | Solved 2 Que |
 | [`Day 88`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/March%202022/Day%2088) | Solved 2 Que |
+| [`Day 89`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/March%202022/Day%2089) | Solved 3 Que |
+| [`Day 90`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/April%202022/Day%2090) | Solved 2 Que |
