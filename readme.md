@@ -1,7 +1,7 @@
 # #365DaysOfCode
 
 I will be adding my daily progress for 365 days.</br>
-In this period I will be learning new things and will solve some `LeetCode` and `CodeChef` questions daily.</br></br>
+In this period I will be learning new things and will solve some `LeetCode`, `CodeChef` and `CodeForces` questions daily.</br></br>
 
 # Connect with me
 
