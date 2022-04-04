@@ -13,5 +13,13 @@ public class Petya_and_Origami{
         
         int ans = (int)Math.ceil((double)friends*r/sheets) + (int)Math.ceil((double)friends*g/sheets) + (int)Math.ceil((double)friends*b/sheets);
         System.out.println(ans);
+
+        // * Cleaner version of above 3 lines.
+        // int ans=0;
+        // int[] rgb = {2,5,8};
+        // for (int i : rgb) {
+        //     ans += (int)Math.ceil((double)friends*i/sheets);
+        // } 
+        // System.out.println(ans);
 	}
 }
