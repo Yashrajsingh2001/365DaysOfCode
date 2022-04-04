@@ -1,0 +1,15 @@
+.vscode/*
+
+# ignore all .class files which are created
+*/*/*.class 
+
+# temp ignored: unsolved Que
+January 2022/Day 38/Que2.java
+
+# Some other stuff
+Rough work/*
+Planner.txt
+March 2022/*
+January 2022/*
+February 2022/*
+December 2021/*
