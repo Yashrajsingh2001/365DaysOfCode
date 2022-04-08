@@ -113,4 +113,4 @@ In this period I will be learning new things and will solve some `LeetCode`, `Co
 | [`Day 93`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/April%202022/Day%2093) | Solved 3 Que |
 | [`Day 94`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/April%202022/Day%2093) | Solved 1 Que |
 | [`Day 95`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/April%202022/Day%2093) | Solved 1 Que |
-| [`Day 96`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/April%202022/Day%2093) | Solved 1 Que |
+| [`Day 96`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/April%202022/Day%2093) | Solved 2 Que |
