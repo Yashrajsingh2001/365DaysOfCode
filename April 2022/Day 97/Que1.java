@@ -9,9 +9,8 @@ class Solution {
         for(int i : nums){
             map.put(i, map.getOrDefault(i, 0)+1);
         }
-        int arr[] = new int[map.size()];
-        int i=0;
-        while(map.size()>0){
+        int arr[] = new int[k];
+        for(int i=0; i<k; i++){
             int max= Integer.MIN_VALUE, val=0;
             for(int j : map.keySet()){
                 if(max<map.get(j)){
@@ -19,10 +18,10 @@ class Solution {
                     val = j;
                 }
             }
-            arr[i++]=val;
+            arr[i]=val;
             map.remove(val);
         }
-        return Arrays.copyOfRange(arr, 0, k);
+        return arr;
     }
 }
 
