@@ -4,3 +4,4 @@
 | --- | --- | --- |
 | 1 | CodeForces | [B. Watering System](https://codeforces.com/problemset/problem/967/B) |
 | 2 | CodeForces | [B. Mislove Has Lost an Array](https://codeforces.com/problemset/problem/1204/B) |
+| 3 | CodeForces | [B. 3-palindrome](https://codeforces.com/problemset/problem/805/B) |
