@@ -3,4 +3,4 @@
 | Que No. | From | Description |
 | --- | --- | --- |
 | 1 | LeetCode | [289. Game of Life](https://leetcode.com/problems/game-of-life/) |
-<!-- | 2 | CodeForces | []() | -->
+| 2 | GFG | [Print adjacency list](https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1#) |
