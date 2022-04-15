@@ -8,13 +8,20 @@ January 2022/Day 38/Que2.java
 
 # Some other stuff
 Rough work/*
-<<<<<<< HEAD
 Planner.txt
 
-# March 2022/*
-# January 2022/*
-# February 2022/*
-# December 2021/*
-=======
-Planner.txt
->>>>>>> 496c312f92957de1a4242687e4176b962caee505
+
+
+April 2022/Day 102/Student.java
+April 2022/Day 102/T1_ArrayList.java
+April 2022/Day 102/T2_Stack.java
+April 2022/Day 102/T3_LinkedList_and_Queue.java
+April 2022/Day 102/T4_PriorityQueue.java
+April 2022/Day 102/T5_ArrayDeque.java
+April 2022/Day 102/T6_Set.java
+April 2022/Day 102/T7_Map.java
+April 2022/Day 102/T8_ArraysClass.java
+April 2022/Day 102/T9_CollectionsClass.java
+April 2022/Day 102/tempCodeRunnerFile.java
+
+.gitignore
