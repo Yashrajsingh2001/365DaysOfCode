@@ -122,3 +122,4 @@ In this period I will be learning new things and will solve some `LeetCode`, `Co
 | [`Day 102`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/April%202022/Day%20102) | `Solved 1 Que and learnt about Java Collections Framework` |
 | [`Day 103`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/April%202022/Day%20103) | Solved 1 Que |
 | [`Day 104`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/April%202022/Day%20104) | Solved 2 Que |
+| [`Day 105`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/April%202022/Day%20105) | Solved 3 Que |
