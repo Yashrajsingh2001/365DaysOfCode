@@ -3,3 +3,4 @@
 | Que No. | From | Description |
 | --- | --- | --- |
 | 1 | LeetCode | [1396. Design Underground System](https://leetcode.com/problems/design-underground-system/) |
+| 2 | CodeForces | [C. Bad Sequence](https://codeforces.com/problemset/problem/1214/C) |
