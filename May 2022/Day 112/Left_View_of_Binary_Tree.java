@@ -19,10 +19,9 @@ class Tree {
 
             for (int i = 0; i < size; i++) {
                 Node curr = q.poll();
-                if (curr.left != null)
-                    q.offer(curr.left);
-                if (curr.right != null)
-                    q.offer(curr.right);
+                if (curr.left != null) q.offer(curr.left);
+                if (curr.right != null) q.offer(curr.right);
+                // for right view, just put right above left
             }
         }
         return ans;
