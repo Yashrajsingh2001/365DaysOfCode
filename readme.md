@@ -132,3 +132,4 @@ In this period I will be learning new things and will solve some `LeetCode`, `Co
 | [`Day 112`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/May%202022/Day%20112) | `Solved 5 Que (Views of Binary tree 🌲)` |
 | [`Day 113`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/May%202022/Day%20113) | Solved 3 Que |
 | [`Day 114`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/May%202022/Day%20114) | Solved 3 Que |
+| [`Day 115`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/May%202022/Day%20115) | Solved 2 Que |
