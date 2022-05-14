@@ -135,3 +135,4 @@ In this period I will be learning new things and will solve some `LeetCode`, `Co
 | [`Day 115`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/May%202022/Day%20115) | Solved 2 Que |
 | [`Day 116`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/May%202022/Day%20116) | Solved 1 Que |
 | [`Day 117`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/May%202022/Day%20117) | Solved 1 Que |
+| [`Day 118`](https://github.com/Yashrajsingh2001/365DaysOfCode/tree/main/May%202022/Day%20117) | Solved 2 Que |
