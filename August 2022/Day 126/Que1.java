@@ -1,8 +1,10 @@
 // Que link: https://practice.geeksforgeeks.org/problems/counting-elements-in-two-arrays/1
 // Counting elements in two arrays
 
+import java.util.ArrayList;
+import java.util.Arrays;
 
-class Solution{
+class Que1{
     public static ArrayList<Integer> countEleLessThanOrEqual(int arr1[], int arr2[], int m, int n){
        // add your code here
         ArrayList<Integer> list = new  ArrayList<Integer>();
